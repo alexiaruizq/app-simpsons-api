@@ -17,35 +17,35 @@ namespace web_api_simpsons.Controllers
             FirstName = "Homero",
                 SecondName = "Jay",
                 LastName = "Simpsons",
-                Age = 34
-            },
+                Age = 34,
+            }
             new Character
             {
                 FirstName = "Marge ",
                 SecondName = " ",
                 LastName = "Simpsons",
-                Age = 36
+                Age = 36,
             }
             new Character
             {
                 FirstName = "Lisa ",
                 SecondName = " ",
                 LastName = "Simpsons",
-                Age = 8
+                Age = 8,
             }
             new Character
             {
                 FirstName = "Bart ",
                 SecondName = " ",
                 LastName = "Simpsons",
-                Age = 10
+                Age = 10,
             }
             new Character
             {
                 FirstName = "Maggie ",
                 SecondName = " ",
                 LastName = "Simpsons",
-                Age = 1
+                Age = 1,
             }
         };
         

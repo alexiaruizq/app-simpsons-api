@@ -1,0 +1,4 @@
+C:\Users\gabri\documents\proyecto-appi\obj\Debug\netcoreapp2.0\proyecto-appi.csprojAssemblyReference.cache
+C:\Users\gabri\documents\proyecto-appi\obj\Debug\netcoreapp2.0\proyecto-appi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\documents\proyecto-appi\obj\Debug\netcoreapp2.0\proyecto-appi.AssemblyInfoInputs.cache
+C:\Users\gabri\documents\proyecto-appi\obj\Debug\netcoreapp2.0\proyecto-appi.AssemblyInfo.cs
